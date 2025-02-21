@@ -1,14 +1,13 @@
 👋 Hi, I’m Ayush Giri (@Ayush2020)
 🔹 Aspiring Java Developer | AI & ML Enthusiast | Problem Solver
 
-👀 Interests
+👀 Interests:
 Java Development (Spring Boot, REST APIs)
 
 🌱 Currently Learning
 Advanced Java (Spring Boot)
 
 📫 How to Reach Me
-LinkedIn: Your LinkedIn Profile
 GitHub: Ayush2020
 Email: ayush1804giri@gmail.com
 😄 Pronouns
