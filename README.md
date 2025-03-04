@@ -40,12 +40,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### **Cloud & DevOps:**
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
 ---
 
@@ -60,10 +54,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Giri&theme=onedark">
 </p>
 
-## **📌 Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Giri&layout=compact&theme=dark" width="400">
-</p>
 
 ---
 
