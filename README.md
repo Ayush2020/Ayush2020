@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-giri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayush-giri1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="ayush1804giri@gmail.comm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -16,7 +16,7 @@
 - 🔭 I’m a **Java Full Stack Developer** with experience in **Spring Boot, JavaScript, and REST APIs**.
 - 🌱 I’m currently learning **Microservices and Cloud Technologies**.
 - 👯 I’m looking to collaborate on **Java and Python-based Web Applications**.
-- 📫 Reach me via **[LinkedIn](https://linkedin.com/in/ayush-giri)**.
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/ayush-giri1/)**.
 
 ---
 
