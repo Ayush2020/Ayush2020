@@ -13,7 +13,7 @@
 ---
 
 ## **🚀 About Me**
-- 🔭 I’m a **Java Full Stack Developer** with experience in **Spring Boot, JavaScript, and REST APIs**.
+- 🔭 I’m a **Java Full Stack Developer** with experience in **Python, Django, SQL, NExtjs, AWS(lambda, IAM, S3, RDS)**.
 - 🌱 I’m currently learning **Microservices and Cloud Technologies**.
 - 👯 I’m looking to collaborate on **Java and Python-based Web Applications**.
 - 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/ayush-giri1/)**.
